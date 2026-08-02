@@ -29,4 +29,16 @@ The preprocessing pipeline includes:
 - Splitting the training data into training and validation sets
 
 
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Jupyter Notebook
+
+
+
 
